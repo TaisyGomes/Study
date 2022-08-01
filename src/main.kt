@@ -1,5 +1,8 @@
 fun main(){
 
+    val borda = ":"
+    val repeat = 6
+
     /* FIRST IMPLEMENTACION
     var idade = 20 * 365
     var name = "Taisy"
@@ -17,11 +20,14 @@ fun main(){
     println("") 
     */
     
-    printBorder()
+    printBorder(borda, repeat)
     println("Happy Birthday, Taisy!")
-    printBorder()
+    printBorder(borda, repeat)
 }
 
-fun printBorder(){
-    println("=====================")
+fun printBorder(borda: String, repeat: Int){
+    repeat(repeat){
+        print(borda)
+    }
+    println()
 }
