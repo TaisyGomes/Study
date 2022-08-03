@@ -7,11 +7,16 @@ color purple_700
 color teal_200
 color teal_700
 color white
+drawable androidparty
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+id imageView2
+id textView
+id textView4
 layout activity_main
 mipmap ic_launcher
 mipmap ic_launcher_round
+string Happy_Birthday_text
 string app_name
 style Theme.FirstAplication
 xml backup_rules

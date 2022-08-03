@@ -40,12 +40,12 @@
         "source": "/home/taisy/.gradle/daemon/7.3.3/com.example.firstaplication.app-main-28:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "/home/taisy/.gradle/daemon/7.3.3/com.example.firstaplication.app-merged_res-26:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/taisy/.gradle/daemon/7.3.3/com.example.firstaplication.app-main-28:/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
         "merged": "/home/taisy/.gradle/daemon/7.3.3/com.example.firstaplication.app-merged_res-26:/drawable-xhdpi_ic_launcher_background.png.flat",
         "source": "/home/taisy/.gradle/daemon/7.3.3/com.example.firstaplication.app-pngs-21:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/taisy/.gradle/daemon/7.3.3/com.example.firstaplication.app-merged_res-26:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/taisy/.gradle/daemon/7.3.3/com.example.firstaplication.app-main-28:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
         "merged": "/home/taisy/.gradle/daemon/7.3.3/com.example.firstaplication.app-merged_res-26:/mipmap-mdpi_ic_launcher_round.webp.flat",
@@ -86,6 +86,10 @@
     {
         "merged": "/home/taisy/.gradle/daemon/7.3.3/com.example.firstaplication.app-merged_res-26:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "/home/taisy/.gradle/daemon/7.3.3/com.example.firstaplication.app-pngs-21:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.firstaplication.app-merged_res-26:/drawable_androidparty.png.flat",
+        "source": "com.example.firstaplication.app-main-28:/drawable/androidparty.png"
     },
     {
         "merged": "/home/taisy/.gradle/daemon/7.3.3/com.example.firstaplication.app-merged_res-26:/mipmap-xxxhdpi_ic_launcher.webp.flat",
