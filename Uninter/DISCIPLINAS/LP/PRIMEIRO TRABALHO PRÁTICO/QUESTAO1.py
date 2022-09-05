@@ -37,3 +37,4 @@ else: # caso o usuário digite um valor inválido para a quantidade, entra nesse
     print('Quantidade inválida, tente novamente!')
 
 #RU IDENTIFICADOR 4232101 - TAISY GOMES DOS SANTOS
+#codigo no git https://github.com/TaisyGomes/Study/tree/main/Uninter/DISCIPLINAS/LP/PRIMEIRO%20TRABALHO%20PR%C3%81TICO

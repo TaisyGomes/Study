@@ -84,3 +84,5 @@ while True:
         continue
 
 #RU IDENTIFICADOR 4232101 - TAISY GOMES DOS SANTOS
+
+#codigo no git https://github.com/TaisyGomes/Study/tree/main/Uninter/DISCIPLINAS/LP/PRIMEIRO%20TRABALHO%20PR%C3%81TICO
